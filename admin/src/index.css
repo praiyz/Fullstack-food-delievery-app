@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Besley:ital,wght@0,400..900;1,400..900&family=Outfit:wght@100..900&family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    font-family: outfit;
+}
+
+body{
+    min-height:100vh;
+    background-color:#f0ebeb;
+}
+
+a{
+    text-decoration: none;
+    color:inherit;
+}
+
+hr{
+    border:none;
+    height:1px;
+    background-color: #a9a9a9;
+}
+.app-contents{
+    display: flex;
+}
+.flex-col{
+    display: flex;
+    flex-direction: column;
+    gap:10px;
+}
+.cursor{
+    cursor: pointer;
+}
