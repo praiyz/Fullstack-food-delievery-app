@@ -1,6 +1,6 @@
 import { NavLink } from "react-router-dom";
 import { assets } from "../../assets/assets";
-import "./sideBar.css";
+import "./SideBar.css";
 const SideBar = () => { // Capitalize the name
   return (
     <div className="sidebar">
