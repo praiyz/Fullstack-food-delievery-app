@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = "https://fullstack-food-delievery-app.onrender.com";
+export const url = "https://fullstack-food-delievery-app-1.onrender.com";
