@@ -8,7 +8,7 @@ import { ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 
 const App = () => {
-const url = "https://fullstack-food-delievery-app.onrender.com";
+const url = "https://fullstack-food-delievery-app-1.onrender.com";
 
   return (
     <div>
